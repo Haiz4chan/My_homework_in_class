@@ -1,0 +1,9 @@
+Weather Report:
+Day: Monday
+Temperature: 45.0 °C
+Condition: Sunny
+
+Day: Tusday
+Temperature: 34.0 °C
+Condition: Rainy
+
